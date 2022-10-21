@@ -22,4 +22,11 @@ for(var index of code){
     console.log(index)
 }
 
+//forEach Loop
+
+let foo=["ram","gobu","gokul","guna"]
+
+foo.forEach((element)=>console.log("Today"+" "+element+" "+"is present "))
+
+
 
